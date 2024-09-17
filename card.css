@@ -1,0 +1,23 @@
+.btn{
+    color:rgb(214, 128, 14);
+}
+.button{
+    text-transform: uppercase;
+
+    color: aqua;
+    background-color:rgb(122, 99, 69);
+    border: 0cap;
+}
+.fixed-card{
+    height: 700px;
+    min-height: 550px;
+}
+.card-body{
+    background-color: rgb(255, 217, 0);
+}
+.card-header{
+    text-align: center;
+    background: aquamarine;
+    text-transform: capitalize;
+    text-shadow: 100px brown;
+}
